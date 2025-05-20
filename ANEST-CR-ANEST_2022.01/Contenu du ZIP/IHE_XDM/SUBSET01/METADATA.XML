@@ -118,7 +118,7 @@
                            status="urn:oasis:names:tc:ebxml-regrep:StatusType:Approved"><!--===================--><!--Hash--><!--===================-->
          <ns2:Slot name="hash">
             <ns2:ValueList>
-               <ns2:Value>3C8575FD870BE02C29C0C835F4DC37627F91C515</ns2:Value>
+               <ns2:Value>9912D060D3AFEC3C403C28E3FF974DC889A384AD</ns2:Value>
             </ns2:ValueList>
          </ns2:Slot>
          <!--===================-->
