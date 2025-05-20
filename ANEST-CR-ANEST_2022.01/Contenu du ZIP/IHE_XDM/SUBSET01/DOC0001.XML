@@ -80,7 +80,7 @@
         <name>
           <!-- Nom et prénom(s) de naissance -->
           <!-- Nom de l’acte de naissance -->
-          <family qualifier="BR">PAT-TROIS</family> 
+          <family qualifier="BR">PAT-TROIS-TEST</family> 
           <!-- Prénoms de l’acte de naissance -->
           <given>DOMINIQUE MARIE-LOUISE</given>
           <!-- Premier prénom de l’acte de naissance -->
